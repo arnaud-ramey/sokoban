@@ -2,6 +2,8 @@
                   |       sokoban        |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/sokoban.svg)](https://travis-ci.org/arnaud-ramey/sokoban)
+
 This is a Sokoban solver.
 There is also a graphical user interface (GUI).
 
