@@ -5,7 +5,8 @@ ________________________________________________________________________________
 The program is written in C++.
 It does not require any other lib.
 It uses the CImg image library, embedded in the source folder (nothing to install).
-
+The GUI relies on OpenCV
+( $ sudo apt install libopencv-dev )
 ________________________________________________________________________________
 
 How to build the program
